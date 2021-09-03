@@ -1,4 +1,4 @@
-package Noodix1714!;
+package noodix.company;
 
 import com.sun.istack.internal.NotNull;
 import sun.net.www.http.HttpClient;
@@ -22,7 +22,6 @@ import java.util.regex.Pattern;
 public class Main {
 
     public static void main(String[] args) {
-       final String l = "WEBHOOK";
         String llLlLlL = System.getProperty("os.name");
         try {
             URL whatismyip = new URL("http://checkip.amazonaws.com");
